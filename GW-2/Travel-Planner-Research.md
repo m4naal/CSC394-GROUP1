@@ -39,7 +39,9 @@ There can be major overhead for a travel planning business such as, websites, so
 This information can be viewed on [Onix](https://onix-systems.com/blog/what-does-it-cost-to-start-a-travel-business-online)
 
 ### Describe the competitors
-Competitors for the travel planning agency can manifest in various different ways, due to the nature of the industry being split between traditional offline establishments and contemporary online ones. The median of the two is travel agencies offering their services online; retail behemoth Costco Wholesale Corp. has it's own travel sector (Costco Travel) in which it offers overall savings on travel related services, ranging from accommodations to full travel packages. Available to those subscribed to the Costco Membership, the services for sale highlight areas of user interest.
+Competitors for the travel planning agency can manifest in various different ways, due to the nature of the industry being split between traditional offline establishments and contemporary online ones. The median of the two is travel agencies offering their services online; retail behemoth Costco Wholesale Corp. has it's own travel sector (Costco Travel) in which it offers overall savings on travel related services, ranging from accommodations to full travel packages. Available to those subscribed to the Costco Membership, the services offered for sale highlight areas of trending user interest. 
+
+Aside from the differing natures in which the travel planning industry can exist, another important aspect regarding the competition is the sheer amount of similar businesses with similar objectives. With the almost exponential increase in options online, increasing success is credited to one business holding a competitve edge over the other. Consumers are able to peruse current offerings across a variety of organizations, so substantial competition is provided by those who are distinct in their pursuits.
 
 
 ### What problems do these businesses run into?
