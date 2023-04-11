@@ -44,7 +44,7 @@ Competitors for the travel planning agency can manifest in various different way
 Aside from the differing natures in which the travel planning industry can exist, another important aspect regarding the competition is the sheer amount of similar businesses with similar objectives. With the almost exponential increase in options online, increasing success is credited to one business holding a competitve edge over the other. Consumers are able to peruse current offerings across a variety of organizations, so substantial competition is provided by those who are distinct in their pursuits.
 
 ### What problems do these businesses run into?
-The multitude of options available - whether adequate in quality or not - can have an obstructive effect on these businesses. Some problems businesses under the travel planning agency run into include struggling to build customer loyality and harnessing a competitive edge over competitors. Some issues, like the recently sustained COVID-19 pandemic, hinder the overarching travel industry as consumption will be limited.
+The multitude of options available - whether adequate in quality or not - can have an obstructive effect on these businesses. Some problems businesses under the travel planning agency face include struggling to build customer loyality and harnessing a competitive edge over competitors. Some issues, like the recently sustained COVID-19 pandemic, hinder the overarching travel industry as consumption will be limited.
 ### Additional Information.
 
 
