@@ -59,10 +59,27 @@ With this increase in desire for accessibility in these areas, the consumer hold
 
 The implementation of adequate software that efficiently provides consumers with relevant information to make decisions about their trips is just as important as personalized, pre-loaded packages on the platform. Packages maintained by travel coordinators need to stay up-to-date while also being extensible. Coordination is also a valuable asset as it can provide consumers with additional guidance in their pursuits/concerns regarding business with the platform. 
 
-Given the substantial amount of similar services, marketing and advertising would play an important role in distinguishing a specific travel planning service from the others. Concentrating on aspects of the service we can gather are important to the user base, promotions can manifest in a variety of ways across the board. 
+Given the substantial amount of similar services, marketing and advertising would play an important role in distinguishing a specific travel planning service from the others. Concentrating on aspects of the service we can gather are important to the user base, promotions can manifest in a variety of ways across the board. Partnerships could prove to be practical in bolstering an individual organization's status.
 
 # 3.0 ✈️ Problem Research
 ## Research and categorize at least 3 different problems that a user at this business world would experience.
+
+## Research a problem domain.
+### Describe the problem.
+Unprecedented and highly consequential world events and/or disasters can arise unexpectedly; events of this nature have the ability to cause serious harm to the business and consumer if unprepared. In the instance that planned travel must be canceled, various parties can incur significant losses. Depending on the duration of the complications, the business could see exponential decreases in returns for a prolonged amount of time.
+### Who has this problem?
+Both the business and consumers can incur significant losses in the face of unprecedented events that call for the cancellation of plans. Despite travel planning services being used prior to the events, matters such as accommodations scheduled through the service would be subject to losses. The losses would increase significantly if partnerships were involved in the process. 
+#### How would you categorize this person?
+The business would have to incur the financial losses as well as any potential reputational losses that supplement the problem - the same goes for any partnerships associated with the platform. Consumers can also incur financial losses as well, depending on the nature of their planning; they are also indefinitely deprived of the service they had once secured. 
+### How pervasive is this problem?
+While it's difficult to measure the pervasiveness of unprecedented global events effects on the travel planning industry, it should be noted that not all events must be on the scale of the recent global pandemic. For example, events like the FIFA World Cup and heatwaves in Europe have caused significant travel hinderances in the past. As the extent of globalization expands, potentially disruptive events to travel are becoming somewhat commonplace. 
+### What is the impact of this problem?
+Depending on the nature of the problem,
+### Do other solutions exist to solve this problem?
+### Describe these solutions. 
+### Describe the companies who create these solutions.
+### Additional Information.
+
 
 ## Research a problem domain.
 
@@ -75,6 +92,21 @@ Given the substantial amount of similar services, marketing and advertising woul
 ### Describe these solutions. 
 ### Describe the companies who create these solutions.
 ### Additional Information.
+
+
+## Research a problem domain.
+
+### Describe the problem.
+### Who has this problem?
+#### How would you categorize this person?
+### How pervasive is this problem?
+### What is the impact of this problem?
+### Do other solutions exist to solve this problem?
+### Describe these solutions. 
+### Describe the companies who create these solutions.
+### Additional Information.
+
 https://www.bls.gov/oes/current/naics4_561500.htm
 https://www.brookings.edu/research/the-covid-19-travel-shock-hit-tourism-dependent-economies-hard/#:~:text=The%20COVID%20crisis%20has%20led,120%20million%20direct%20tourism%20jobs.
 https://www.unwto.org/news/2020-worst-year-in-tourism-history-with-1-billion-fewer-international-arrivals
+https://www.wexinc.com/insights/blog/wex-travel/impacts-travel-events/
