@@ -74,10 +74,14 @@ The business would have to incur the financial losses as well as any potential r
 ### How pervasive is this problem?
 While it's difficult to measure the pervasiveness of unprecedented global events effects on the travel planning industry, it should be noted that not all events must be on the scale of the recent global pandemic. For example, events like the FIFA World Cup and heatwaves in Europe have caused significant travel hinderances in the past. As the extent of globalization expands, potentially disruptive events to travel are becoming somewhat commonplace. 
 ### What is the impact of this problem?
-Depending on the nature of the problem,
+Depending on the nature of the problem and the response to it, the overarching travel industry can report serious losses. The impact of COVID-19 in the first 10 months of 2020 was estimated to have cost the global tourism industry about $1T USD - when considering the extensive planning that goes into the act itself, the losses within the travel planning sector have been and can be immense. 
 ### Do other solutions exist to solve this problem?
+When considering events at a lesser, more predictable scale - say a heatwave or highly anticipated sports event - travelers and planners have the luxury of time and can seek services using a preemptive or remedial approach with the help of adequate software. Current preemptive travel planning services are limited to potential personal disruptors (travelers/family inflicted with illnesses or sudden passport issues) as well as remedies for other disruptions, like flight delays or cancellations or even airline insolvency. There's no significant solution towards navigating large scale events that may impact travel; however, there has been some push towards establishing solutions in the recent years following the pandemic. Travel planning services should maintain a dynamic approach to trip organization, as factors affecting travel are dynamic as well.
 ### Describe these solutions. 
+Some common solutions are in the vein of travel insurance. This includes paid access to services that would deflect any potential financial losses on the consumer's side in the instance of a serious travel event. However, this solution is mostly anticipatory and not remedial; vacation waivers can only be used if purchased before the trip's start time and cannot be obtained within the duration of. Other solutions include knowledge of seasonal trends and their effects on arranging travel, such as flight prices. Software is able to identify and display this information in a way that can benefit the consumer when planning trips amongst potential times of conflict.
 ### Describe the companies who create these solutions.
+Services like Expedia offer "vacation waivers" which can be redeemed following unexpected occurences that may cause a trip to falter. These vacation waivers are up for purchase during the time of planning, and serve as a more accessible approach to travel insurance. Skyscanner Ltd.'s business model revolves around fetching the best, live value of flights, car rentals, and living accommodations. Following the pandemic, Skyscanner pursued partnerships in order to boost consumer confidence in a post-COVID world by incorporating relevant data in their displays of services, allowing consumers to make transparent and hihgly informed decisions.
+Sources: https://www.expedia.com/vacation-waiver-terms , https://covergenius.com/covid-19-travel-insurance-skyscanner/
 ### Additional Information.
 
 
@@ -110,3 +114,4 @@ https://www.bls.gov/oes/current/naics4_561500.htm
 https://www.brookings.edu/research/the-covid-19-travel-shock-hit-tourism-dependent-economies-hard/#:~:text=The%20COVID%20crisis%20has%20led,120%20million%20direct%20tourism%20jobs.
 https://www.unwto.org/news/2020-worst-year-in-tourism-history-with-1-billion-fewer-international-arrivals
 https://www.wexinc.com/insights/blog/wex-travel/impacts-travel-events/
+https://www.forbes.com/sites/duncanmadden/2021/01/14/the-covid-19-pandemic-has-cost-the-global-tourism-industry-935-billion/?sh=21676e9b7d40
