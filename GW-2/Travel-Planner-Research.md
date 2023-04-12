@@ -44,7 +44,9 @@ Competitors for the travel planning agency can manifest in various different way
 Aside from the differing natures in which the travel planning industry can exist, another important aspect regarding the competition is the sheer amount of similar businesses with similar objectives. With the almost exponential increase in options online, increasing success is credited to one business holding a competitve edge over the other. Consumers are able to peruse current offerings across a variety of organizations, so substantial competition is provided by those who are distinct in their pursuits.
 
 ### What problems do these businesses run into?
-The multitude of options available - whether adequate in quality or not - can have an obstructive effect on these businesses. Some problems businesses under the travel planning agency face include struggling to build customer loyality and harnessing a competitive edge over competitors. Some issues, like the recently sustained COVID-19 pandemic, hinder the overarching travel industry as consumption will be limited.
+The multitude of options available - whether adequate in quality or not - can have an obstructive effect on these businesses. Some problems businesses under the travel planning industry face include struggling to build customer loyality and harnessing a competitive edge over competitors. These issues can be augmented by the lack of incorporating relevant software to the business model. 
+
+Issues such as epidemics - like the recently sustained COVID-19 pandemic - hinder the overarching travel industry as consumption will be limited. While many common problems can be somewhat accounted for, a global scale issue like a pandemic and it's subsequent concerns can suddenly and indefinitely halt operations in the industry. In 2020, the onset of the COVID-19 pandemic essentially collapsed the global travel industry, with about 1 billion less people traveling internationally than in the previous year; this accounted for a loss in global export revenues of about $1.3T USD. Widespread travel restrictions and unprecedented falls in demand following somewhat unexampled circumstances. 
 ### Additional Information.
 
 
@@ -69,3 +71,5 @@ As previously mentioned, travel technology equips online travel planning service
 ### Describe the companies who create these solutions.
 ### Additional Information.
 https://www.bls.gov/oes/current/naics4_561500.htm
+https://www.brookings.edu/research/the-covid-19-travel-shock-hit-tourism-dependent-economies-hard/#:~:text=The%20COVID%20crisis%20has%20led,120%20million%20direct%20tourism%20jobs.
+https://www.unwto.org/news/2020-worst-year-in-tourism-history-with-1-billion-fewer-international-arrivals
