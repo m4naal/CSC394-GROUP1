@@ -53,8 +53,13 @@ Issues such as epidemics - like the recently sustained COVID-19 pandemic - hinde
 # 2.0 ✈️ User Research
 ## Starting understanding some of the main actors / people that exist in this problem domain or business ecosystem.
 
-As previously mentioned, travel technology equips online travel planning services with an advantage over offline establishments. With more consumers preferring tailored services but at a lower cost, the online travel planning industry provides travelers with increased control over their possible itineraries. By being quick, efficient, and thorough in their approach, travel through means of online planning is becoming more accessible to the average consumer. In particular, the furthering of globalization and the steadily increasing middle-class population has created an environment in which accessible and adaptable approaches to travel are desired. 
+As previously mentioned, travel technology equips online travel planning services with an advantage over offline establishments. With more consumers preferring tailored services but at a lower cost, the online travel planning industry provides travelers with increased control over their possible itineraries. By being quick, efficient, and thorough in their approach, travel through means of online planning is becoming more accessible to the average consumer. In particular, the furthering of globalization and the steadily increasing middle-class population has created an environment in which accessible and adaptable approaches to travel are desired.
 
+With this increase in desire for accessibility in these areas, the consumer holds a lot of power as a user within this particular business ecosystem. As the primary users of the business, they would be able to explore the platform for travel related services that fit their needs, as well as create and tailor specific itineraries encompassing various incremental aspects to the process through the help of the software (e.g. cost based on mileage for a roadtrip). 
+
+The implementation of adequate software that efficiently provides consumers with relevant information to make decisions about their trips is just as important as personalized, pre-loaded packages on the platform. Packages maintained by travel coordinators need to stay up-to-date while also being extensible. Coordination is also a valuable asset as it can provide consumers with additional guidance in their pursuits/concerns regarding business with the platform. 
+
+Given the substantial amount of similar services, marketing and advertising would play an important role in distinguishing a specific travel planning service from the others. Concentrating on aspects of the service we can gather are important to the user base, promotions can manifest in a variety of ways across the board. 
 
 # 3.0 ✈️ Problem Research
 ## Research and categorize at least 3 different problems that a user at this business world would experience.
